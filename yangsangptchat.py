@@ -47,7 +47,7 @@ if api_key:
         st.session_state.deleted_messages = []
 
     avatars = {
-        "user": "data_image/yang.png",
+        "user": "data_image/gok.png",
         "assistant": "data_image/gpt.png"
     }
 
